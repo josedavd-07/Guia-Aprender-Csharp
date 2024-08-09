@@ -1,0 +1,14 @@
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/bin/Debug/net8.0/_0_aprendeCsharp
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/bin/Debug/net8.0/_0_aprendeCsharp.deps.json
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/bin/Debug/net8.0/_0_aprendeCsharp.runtimeconfig.json
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/bin/Debug/net8.0/_0_aprendeCsharp.dll
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/bin/Debug/net8.0/_0_aprendeCsharp.pdb
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.AssemblyInfoInputs.cache
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.AssemblyInfo.cs
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.csproj.CoreCompileInputs.cache
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.dll
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/refint/_0_aprendeCsharp.dll
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.pdb
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/_0_aprendeCsharp.genruntimeconfig.cache
+/home/josedavd07/Documentos/Aprendiendo C# y su entorno/_0_aprendeCsharp/obj/Debug/net8.0/ref/_0_aprendeCsharp.dll

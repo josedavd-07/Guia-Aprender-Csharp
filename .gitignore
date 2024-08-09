@@ -1,0 +1,53 @@
+#Ignnore el entorno de desarrollo de .net
+# Archivos binarios de compilación
+/bin/
+/obj/
+
+# Archivos generados por Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración y de usuario
+.vscode/
+*.csproj.user
+*.csproj.userosscache
+*.userprefs
+
+# Paquetes de NuGet descargados
+packages/
+
+# Logs
+*.log
+*.tlog
+*.log.json
+
+# Archivos de bloqueo
+project.lock.json
+project.fragment.lock.json
+
+# Archivos generados por las herramientas de depuración
+.vs/
+*.vspscc
+.vscode-test/
+
+# Archivos de sistema operativos
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de caché
+*.cache
+
+# Archivos de compilación
+*.dll
+*.exe
+*.pdb
+*.xml
