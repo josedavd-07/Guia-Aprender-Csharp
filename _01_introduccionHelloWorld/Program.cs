@@ -8,9 +8,20 @@
 
 // See https://aka.ms/new-console-template for more information
 
-//Console.WriteLine("Hello, World!");
+/* Asi se veria si usamos instrucciones de nivel superior
+ * 
+    ** Console.WriteLine("Hello, World!");
+*/
 
-// Este es un codigo en el cual no usamos instrucciones de nivel superior en el codigo  esta era la manera tradicciona de hacerlo como siempre.
+
+
+
+//*******************************************************
+//* **************************************************+
+
+
+
+
 
 /**
     * asi se veria si no usamos instrucciones de nivel superior
@@ -18,10 +29,7 @@
     * por mayor orden de codigo utilizamos todas las estructuras
  */
 
-
-
-
-
+// Este es un codigo en el cual no usamos instrucciones de nivel superior en el codigo  esta era la manera tradicciona de hacerlo como siempre.
 
 //Nos permite usar la clase console que se encuentra en System , y a su vez los metodos de la clase Console
 using System;
